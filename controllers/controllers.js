@@ -3,7 +3,10 @@ const m1 = (n1, n2) => {
   return n1 + n2;
 };
 
-const m2 = () => {};
+// 2. Escribe una función que tome un número como parámetro y devuelva su cuadrado.
+const m2 = (n) => {
+  return n ** 2;
+};
 
 const m3 = () => {};
 
